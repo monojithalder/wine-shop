@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wineshopnew", "wineshopnew\wineshopnew.csproj", "{CCF90512-AEFA-4E1A-B0B0-A20B9BFB325A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "wineshopinstaller", "wineshopinstaller\wineshopinstaller.vdproj", "{F90FAFDD-6AF0-4DCB-836C-027D508D9BC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wineshop_off_shop", "wineshop_off_shop\wineshop_off_shop.csproj", "{E0327409-FCFE-4C90-A30B-A06421868063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF90512-AEFA-4E1A-B0B0-A20B9BFB325A}.Debug|x86.ActiveCfg = Debug|x86
+		{CCF90512-AEFA-4E1A-B0B0-A20B9BFB325A}.Debug|x86.Build.0 = Debug|x86
+		{CCF90512-AEFA-4E1A-B0B0-A20B9BFB325A}.Release|x86.ActiveCfg = Release|x86
+		{CCF90512-AEFA-4E1A-B0B0-A20B9BFB325A}.Release|x86.Build.0 = Release|x86
+		{F90FAFDD-6AF0-4DCB-836C-027D508D9BC9}.Debug|x86.ActiveCfg = Debug
+		{F90FAFDD-6AF0-4DCB-836C-027D508D9BC9}.Release|x86.ActiveCfg = Release
+		{E0327409-FCFE-4C90-A30B-A06421868063}.Debug|x86.ActiveCfg = Debug|x86
+		{E0327409-FCFE-4C90-A30B-A06421868063}.Debug|x86.Build.0 = Debug|x86
+		{E0327409-FCFE-4C90-A30B-A06421868063}.Release|x86.ActiveCfg = Release|x86
+		{E0327409-FCFE-4C90-A30B-A06421868063}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

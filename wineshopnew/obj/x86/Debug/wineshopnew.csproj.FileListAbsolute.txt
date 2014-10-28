@@ -1,0 +1,242 @@
+c:\users\toshiba\documents\visual studio 2010\Projects\wineshopnew\wineshopnew\bin\Debug\wineshopnew.exe
+c:\users\toshiba\documents\visual studio 2010\Projects\wineshopnew\wineshopnew\bin\Debug\wineshopnew.pdb
+c:\users\toshiba\documents\visual studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.Form1.resources
+c:\users\toshiba\documents\visual studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.exe
+c:\users\toshiba\documents\visual studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.pdb
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_stock.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.barcode.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.creditor.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.billing.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_newproducttype.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_table.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.daily_report.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_rebate.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_return_tcs.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_tcs.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.product_sale_report.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.rebate_targer.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.sale_statement.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.seting.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.set_starting_date.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.view_tcs_report.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.creditors_ac.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.creditor_money_return.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_pack_detail.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.table_option.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.total_billing.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.bill_product.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_closing_stock.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_opening_stock.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_profitandloss.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_stock.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_pack.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.create_user.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.delete_user.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_user_ac.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.change_passowrd.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_expenses.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.admin_panel.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.login.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.user_control_panel.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.view_income_expenses.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.first_time.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.licence.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.bill_print.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.user_billing.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.login_detail.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.logout.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_opeingstock_manualy.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.search_by_invoice.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\bin\Debug\Interop.WIA.dll
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\Interop.WIA.dll
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.csproj.ResolveComReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.invoice_scan.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.backupandrestore.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.item_sale_report.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.table_sale_report.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\bin\Debug\wineshopnew.exe
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\bin\Debug\wineshopnew.pdb
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\bin\Debug\Interop.WIA.dll
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\Interop.WIA.dll
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.csproj.ResolveComReference.cache
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.admin_panel.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.backupandrestore.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.barcode.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.billing.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.bill_print.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.bill_product.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.change_passowrd.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.create_user.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.creditor.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.creditors_ac.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.creditor_money_return.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.daily_report.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.delete_user.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.first_time.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.Form1.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_closing_stock.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_expenses.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_newproducttype.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_opeingstock_manualy.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_opening_stock.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_pack_detail.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_rebate.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_return_tcs.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_stock.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_table.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_tcs.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.invoice_scan.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.item_sale_report.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.licence.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.login.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.login_detail.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.logout.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.product_sale_report.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.Properties.Resources.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.rebate_targer.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.sale_statement.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.search_by_invoice.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.seting.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.set_starting_date.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_pack.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_profitandloss.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_stock.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_user_ac.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.table_option.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.table_sale_report.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.total_billing.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.user_billing.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.user_control_panel.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.view_income_expenses.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.view_tcs_report.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.exe
+C:\Users\AMIYA GUPTA\Desktop\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.pdb
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\Interop.WIA.dll
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.csproj.ResolveComReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.exe
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\Wine\3\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.pdb
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\bin\Debug\wineshopnew.exe
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\bin\Debug\wineshopnew.pdb
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\bin\Debug\Interop.WIA.dll
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\Interop.WIA.dll
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.csproj.ResolveComReference.cache
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.admin_panel.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.backupandrestore.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.barcode.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.billing.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.bill_print.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.bill_product.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.change_passowrd.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.create_user.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.creditor.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.creditors_ac.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.creditor_money_return.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.daily_report.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.delete_user.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.first_time.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.Form1.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_closing_stock.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_expenses.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_newproducttype.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_opeingstock_manualy.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_opening_stock.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_pack_detail.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_rebate.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_return_tcs.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_stock.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_table.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_tcs.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.invoice_scan.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.item_sale_report.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.licence.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.login.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.login_detail.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.logout.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.product_sale_report.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.Properties.Resources.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.rebate_targer.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.sale_statement.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.search_by_invoice.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.seting.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.set_starting_date.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_pack.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_profitandloss.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_stock.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_user_ac.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.table_option.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.table_sale_report.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.total_billing.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.user_billing.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.user_control_panel.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.view_income_expenses.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.view_tcs_report.resources
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.exe
+C:\Users\AMIYA GUPTA\Desktop\Wine\4\Wine\wineshopnew\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.pdb
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\bin\Debug\wineshopnew.exe
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\bin\Debug\wineshopnew.pdb
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\bin\Debug\Interop.WIA.dll
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\Interop.WIA.dll
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.csproj.ResolveComReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.admin_panel.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.backupandrestore.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.barcode.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.billing.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.bill_print.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.bill_product.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.change_passowrd.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.create_user.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.creditor.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.creditors_ac.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.creditor_money_return.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.daily_report.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.delete_user.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.first_time.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.Form1.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_closing_stock.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_expenses.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_newproducttype.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_opeingstock_manualy.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_opening_stock.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_pack_detail.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_rebate.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_return_tcs.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_stock.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_table.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.insert_tcs.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.invoice_scan.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.item_sale_report.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.licence.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.login.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.login_detail.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.logout.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.product_sale_report.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.Properties.Resources.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.rebate_targer.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.sale_statement.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.search_by_invoice.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.seting.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.set_starting_date.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_pack.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_profitandloss.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_stock.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.show_user_ac.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.table_option.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.table_sale_report.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.total_billing.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.user_billing.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.user_control_panel.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.view_income_expenses.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.view_tcs_report.resources
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.csproj.GenerateResource.Cache
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.exe
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.pdb
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\wineshopfinal\wineshopnew\wineshopnew\obj\x86\Debug\wineshopnew.csprojResolveAssemblyReference.cache
